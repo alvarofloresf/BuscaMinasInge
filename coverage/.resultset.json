@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "C:/Users/HP/Documents/BuscaMinasInge/spec/buscaminas_spec.rb": {
+      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/tenis/INGE-BUSCAMINAS/Buscaminas - ProyInge/spec/buscaminas_spec.rb": {
         "lines": [
           1,
           null,
@@ -25,7 +25,7 @@
           null
         ]
       },
-      "C:/Users/HP/Documents/BuscaMinasInge/lib/buscaminas.rb": {
+      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/tenis/INGE-BUSCAMINAS/Buscaminas - ProyInge/lib/buscaminas.rb": {
         "lines": [
           1,
           null,
@@ -66,6 +66,6 @@
         ]
       }
     },
-    "timestamp": 1605151631
+    "timestamp": 1605152102
   }
 }
