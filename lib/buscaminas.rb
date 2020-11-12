@@ -1,5 +1,14 @@
-class Buscamina
+class Buscaminas
     def inicializar
-        @tablero = [[0,0,0],[0,0,0],[0,0,0]]
+        @vidasJugador = 1
     end
+
+    def iniciarVidas
+		@vidasJugador = 1
+		return @vidasJugador
+    end
+    
+    def getVidas
+		return @vidasJugador
+	end
 end
