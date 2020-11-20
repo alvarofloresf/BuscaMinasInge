@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/tenis/INGE-BUSCAMINAS/Buscaminas - ProyInge/spec/buscaminas_spec.rb": {
+      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/PROY/BuscaMinasInge/spec/buscaminas_spec.rb": {
         "lines": [
           1,
           null,
@@ -25,7 +25,7 @@
           null
         ]
       },
-      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/tenis/INGE-BUSCAMINAS/Buscaminas - ProyInge/lib/buscaminas.rb": {
+      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/PROY/BuscaMinasInge/lib/buscaminas.rb": {
         "lines": [
           1,
           null,
@@ -66,6 +66,85 @@
         ]
       }
     },
-    "timestamp": 1605152102
+    "timestamp": 1605911352
+  },
+  "Cucumber Features": {
+    "coverage": {
+      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/PROY/BuscaMinasInge/app.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          0,
+          null,
+          1,
+          0,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null
+        ]
+      },
+      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/PROY/BuscaMinasInge/config.rb": {
+        "lines": [
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1
+        ]
+      },
+      "C:/Users/HP POWER/Desktop/IngeSoft-RUBY/PROY/BuscaMinasInge/lib/buscaminas.rb": {
+        "lines": [
+          1,
+          null,
+          1,
+          0,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          null,
+          0,
+          null,
+          null,
+          1,
+          0,
+          null,
+          null,
+          null
+        ]
+      }
+    },
+    "timestamp": 1605911371
   }
 }
